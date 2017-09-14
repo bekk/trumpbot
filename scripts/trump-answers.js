@@ -1,5 +1,7 @@
 // Description:
-// Scripts med random trumpbot morro
+//  Scripts med random trumpbot morro
+// Commands:
+//  Hubot quote - I will quote one of my awesome quotes
 
 quotes = [
   "I will build a great wall – and nobody builds walls better than me, believe me ...",
